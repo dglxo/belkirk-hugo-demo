@@ -38,3 +38,16 @@ fields:
   type: text
   hidden: true
   default: post
+- name: run
+  type: select
+  default: _posts/2017-02-12-modern.md
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: jekyll-posts
+      file: 
+      path: 
+  label: run
+  description: run
