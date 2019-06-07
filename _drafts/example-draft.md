@@ -5,7 +5,6 @@ date: 2018-01-19T00:00:00.000+00:00
 sub_heading: ''
 tags: []
 related_posts: []
-run: _posts/2017-02-12-modern.md
 
 ---
 ## What are draft posts?
